@@ -24,12 +24,9 @@
 ---
 
 ### 📊 Estatísticas:
-
-### 📊 Estatísticas:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kayro25&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true" />
 </p>
-
 
 ---
 
