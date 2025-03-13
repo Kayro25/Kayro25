@@ -1,49 +1,82 @@
-<h1 align="center">
-  <img src="[[https://i.imgur.com/YQ2XQ60.gif" width="50px](https://2.bp.blogspot.com/-g_vTEh1Gh6s/Wty6mAFxjDI/AAAAAAAAAjQ/cXvRLeNS5wkXmRgRBls45B4l8RZrgr0EwCLcBGAs/s1600/Botan%2B17.gif)](https://giffiles.alphacoders.com/204/204272.gif)"> Olá! Eu sou o Kayro! ʕ•́ᴥ•̀ʔっ♡
-</h1>
-
+<h1 align="center">Kayro! ʕ•́ᴥ•̀ʔっ♡</h1>  
 <p align="center">
-  <img src="https://2.bp.blogspot.com/-g_vTEh1Gh6s/Wty6mAFxjDI/AAAAAAAAAjQ/cXvRLeNS5wkXmRgRBls45B4l8RZrgr0EwCLcBGAs/s1600/Botan%2B17.gif" width="400px">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A8A8A8&center=true&vCenter=true&width=600&lines=Linux+User+%7C+Fullstack+Developer;Always+Learning+%E2%9C%A8;Web+%7C+Games+%7C+Mobile+%7C+CLI+Tools;Lite+XL+%7C+Plasma+%7C+Kitty" alt="Typing SVG">
 </p>
 
 ---
 
-### 🌸 Sobre mim:
-- 🖥️ Programador apaixonado por JavaScript, C# e Linux!
-- 🎮 Criando jogos e apps incríveis (ou pelo menos tentando, né? ಥ‿ಥ)
-- 🏴‍☠️ Explorando o mundo do open-source e personalizando meu Linux.
-- 🎵 Viciado em música, café e códigos bonitinhos. ☕
+<div align="center">
+  <img src="https://c.tenor.com/FQxolxrrXL8AAAAd/mai-sakurajima-rascal-does-not-dream-of-bunny-girl-senpai.gif" width="180">
+</div>
 
 ---
 
-### 🛠️ Tecnologias favoritas:
+## 🔥 About Me  
+
+> **"I am a self-taught developer, driven by curiosity and the desire to create. Programming is my way of turning ideas into reality."**  
+
+- 🔹 Passionate about **Web, Games, Mobile & CLI tools**  
+- 🔹 Building and learning **Rust, JS, Node.js & React**  
+- 🔹 Linux power user, customizing everything 😎  
+
+---
+
+## 🖥️ My Work Environment  
+
+- **💻 OS:** [EndeavourOS](https://endeavouros.com/) (Arch-based, lightweight & customizable)  
+- **🖥️ Desktop:** [Plasma](https://kde.org/plasma-desktop/) (Elegant & modern)  
+- **🔤 Code Editor:** [Lite XL](https://github.com/rtomayko/lite-xl) + **Catppuccin theme** ☕  
+- **⌨️ Terminal:** [Kitty](https://github.com/kovidgoyal/kitty) (GPU-accelerated, fast & highly customizable)  
+
+---
+
+## 🛠 Tech Stack  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,cs,linux,bash,git" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,rust,cs,nodejs,mongodb,git,linux,bash,python" />
 </p>
 
 ---
 
-### 📊 Estatísticas:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kayro25&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true" />
-</p>
+## 🚀 Projects  
+
+### ⚡ [Renal Mobile App](https://github.com/Kayro25/RenalVidaMobileApp)  
+> 🏥 A **React Native** & **Expo** mobile app focused on renal health management.  
+✔ Uses **React Navigation** for smooth navigation.  
+✔ Modular components for clean, reusable code.  
+✔ Helps track and manage health data easily.  
 
 ---
 
-### 🎮 Projetos em destaque:
-📱 **[RenalVidaMobileApp](https://github.com/Kayro25/RenalVidaMobileApp)** → Um app mobile com React Native.  
-☕ **[BolachaCafe](https://github.com/Kayro25/bolachaCafe)** → Um projeto cheio de sabor e código!  
+### 🍔 Bolacha Café  
+> 🍞 A **food ordering website** with an intuitive UI.  
+✔ Full **menu display** for better browsing.  
+✔ Simple, fast **order process** for convenience.  
+✔ Real-time **order tracking**.  
 
 ---
 
-### 💌 Onde me encontrar?
-<p align="center">
-  <a href="https://github.com/Kayro25"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:me0711405@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+### 🎵 [Cortesana](https://github.com/Kayro25/Cortesana)  
+> 🎶 A **minimalist music player** for the terminal.  
+✔ **Interactive** command-line controls.  
+✔ **Customizable** features for a unique experience.  
+✔ **Lightweight & fast**, built for performance.  
 
 ---
 
-<p align="center">
-  Feito com ❤️ e café ☕ por Kayro.
-</p>
+## 🏆 GitHub Stats  
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kayro25&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayro25&layout=compact&theme=tokyonight" />
+</div>
+
+
+---
+
+## 🔗 Where to Find Me  
+[![Email](https://img.shields.io/badge/Contact%20Me-Email-4B5563?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:me0711405@gmail.com)
+
+---
+
+“You know... just cause some cute girl likes the same bizarro music you do doesn't make her the one.” 
