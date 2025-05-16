@@ -1,6 +1,6 @@
 <h1 align="center">Kayro! ʕ•́ᴥ•̀ʔっ♡</h1>  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A8A8A8&center=true&vCenter=true&width=600&lines=Linux+User+%7C+Fullstack+Developer;Always+Learning+%E2%9C%A8;Web+%7C+Games+%7C+Mobile+%7C+CLI+Tools;Lite+XL+%7C+Plasma+%7C+Kitty" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A8A8A8&center=true&vCenter=true&width=600&lines=Linux+User+%7C+Fullstack+Developer;Always+Learning+%E2%9C%A8;Web+%7C+Games+%7C+Mobile+%7C+CLI+Tools" alt="Typing SVG">
 </p>
 
 ---
@@ -25,7 +25,7 @@
 
 - **💻 OS:** [EndeavourOS](https://endeavouros.com/) (Arch-based, lightweight & customizable)  
 - **🖥️ Desktop:** [Plasma](https://kde.org/plasma-desktop/) (Elegant & modern)  
-- **🔤 Code Editor:** [Lite XL](https://github.com/rtomayko/lite-xl) + **Catppuccin theme** ☕  
+- **🔤 Code Editor:** [VSCodium](https://github.com/VSCodium/vscodium) + **Catppuccin theme** ☕  
 - **⌨️ Terminal:** [Kitty](https://github.com/kovidgoyal/kitty) (GPU-accelerated, fast & highly customizable)  
 
 ---
@@ -33,7 +33,7 @@
 ## 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,rust,cs,nodejs,mongodb,git,linux,bash,python" />
+  <img src="https://skillicons.dev/icons?i=javascript,react,cs,nodejs,mongodb,git,linux,bash,python" />
 </p>
 
 ---
