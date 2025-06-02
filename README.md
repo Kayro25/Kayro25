@@ -1,13 +1,7 @@
-<h1 align="center">Kayro! ʕ•́ᴥ•̀ʔっ♡</h1>  
+<h1 align="center">Kayro!</h1>  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A8A8A8&center=true&vCenter=true&width=600&lines=Linux+User+%7C+Fullstack+Developer;Always+Learning+%E2%9C%A8;Web+%7C+Games+%7C+Mobile+%7C+CLI+Tools" alt="Typing SVG">
 </p>
-
----
-
-<div align="center">
-  <img src="https://c.tenor.com/FQxolxrrXL8AAAAd/mai-sakurajima-rascal-does-not-dream-of-bunny-girl-senpai.gif" width="180">
-</div>
 
 ---
 
