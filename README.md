@@ -17,10 +17,10 @@
 
 ## 🖥️ My Work Environment  
 
-- **💻 OS:** [EndeavourOS](https://endeavouros.com/) (Arch-based, lightweight & customizable)  
-- **🖥️ Desktop:** [Plasma](https://kde.org/plasma-desktop/) (Elegant & modern)  
-- **🔤 Code Editor:** [VSCodium](https://github.com/VSCodium/vscodium) + **Catppuccin theme** ☕  
-- **⌨️ Terminal:** [Kitty](https://github.com/kovidgoyal/kitty) (GPU-accelerated, fast & highly customizable)  
+- **💻 OS:** [CachyOS](https://cachyos.org/) (Arch-based, lightweight & customizable)  
+- **🖥️ Desktop:** [GNOME](https://www.gnome.org/) (Clean & modern)  
+- **🔤 Code Editor:** [VSCode](https://code.visualstudio.com/) + **Catppuccin theme**  
+- **⌨️ Terminal:** [Konsole](https://konsole.kde.org/) (Powerful & customizable)  
 
 ---
 
