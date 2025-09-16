@@ -10,7 +10,7 @@
 > **"I am a self-taught developer, driven by curiosity and the desire to create. Programming is my way of turning ideas into reality."**  
 
 - 🔹 Passionate about **Web, Games, Mobile & CLI tools**  
-- 🔹 Building and learning **Rust, JS, Node.js & React**  
+- 🔹 Building and learning **Ruby, JS & Node.js**  
 - 🔹 Linux power user, customizing everything 😎  
 
 ---
@@ -27,14 +27,14 @@
 ## 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,react,cs,nodejs,mongodb,git,linux,bash,python" />
+  <img src="https://skillicons.dev/icons?i=javascript,react,cs,nodejs,mongodb,git,linux,bash,python,ruby" />
 </p>
 
 ---
 
 ## 🚀 Projects  
 
-### ⚡ [Renal Mobile App](https://github.com/Kayro25/RenalVidaMobileApp)  
+### ⚡ Renal Mobile App  (Private)
 > 🏥 A **React Native** & **Expo** mobile app focused on renal health management.  
 ✔ Uses **React Navigation** for smooth navigation.  
 ✔ Modular components for clean, reusable code.  
@@ -42,7 +42,7 @@
 
 ---
 
-### 🍔 Bolacha Café  
+### 🍔 Bolacha Café  (Private)
 > 🍞 A **food ordering website** with an intuitive UI.  
 ✔ Full **menu display** for better browsing.  
 ✔ Simple, fast **order process** for convenience.  
