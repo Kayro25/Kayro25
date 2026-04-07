@@ -63,10 +63,6 @@
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats-tau-ten-54.vercel.app/api?username=Kayro25&show_icons=true&theme=dark&hide_border=true)
-
-  ![Top Languages](https://github-readme-stats-tau-ten-54.vercel.app/api/top-langs/?username=Kayro25&layout=compact&theme=dark&hide_border=true)
-
   ![GitHub Streak](https://streak-stats.demolab.com?user=Kayro25&theme=dark&hide_border=true)
 
 </div>
