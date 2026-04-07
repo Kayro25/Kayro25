@@ -18,7 +18,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,nodejs,python,cs,html,css,git,linux,bash,mongodb,ruby,docker" />
+  <img src="https://skillicons.dev/icons?i=javascript,nodejs,python,cs,html,css,git,linux,bash,mongodb,ruby,docker,postgresql,vue,react" />
 </p>
 
 ---
@@ -78,4 +78,4 @@
 
 ---
 
-*"𝒀𝒐𝒖 𝒌𝒏𝒐𝒘... 𝒋𝒖��𝒕 𝒄𝒂𝒖𝒔𝒆 𝒔𝒐𝒎𝒆 𝒄𝒖𝒕𝒆 𝒈𝒊𝒓𝒍 𝒍𝒊𝒌𝒆𝒔 𝒕𝒉𝒆 𝒔𝒂𝒎𝒆 𝒃𝒊𝒛𝒂𝒓𝒓𝒐 𝒎𝒖𝒔𝒊𝒄 𝒚𝒐𝒖 𝒅𝒐 𝒅𝒐𝒆𝒔𝒏'𝒕 𝒎𝒂𝒌�� 𝒉𝒆𝒓 𝒕𝒉𝒆 𝒐𝒏𝒆."*
+*"𝒀𝒐𝒖 𝒌𝒏𝒐𝒘... 𝒋𝒖𝒔𝒕 𝒃𝒆𝒄𝒂𝒖𝒔𝒆 𝒔𝒐𝒎𝒆 𝒄𝒖𝒕𝒆 𝒈𝒊𝒓𝒍 𝒍𝒊𝒌𝒆𝒔 𝒕𝒉𝒆 𝒔𝒂𝒎𝒆 𝒃𝒊𝒛𝒂𝒓𝒓𝒐 𝒎𝒖𝒔𝒊𝒄 𝒚𝒐𝒖 𝒅𝒐 𝒅𝒐𝒆𝒔𝒏'𝒕 𝒎𝒂𝒌𝒆 𝒉𝒆𝒓 𝒕𝒉𝒆 𝒐𝒏𝒆."*
