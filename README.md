@@ -18,7 +18,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,nodejs,python,cs,html,css,git,linux,bash,mongodb,ruby,docker,postgresql,vue,react" />
+  <img src="https://skillicons.dev/icons?i=javascript,nodejs,python,cs,git,linux,bash,mongodb,ruby,docker,postgresql,vue,react,golang" />
 </p>
 
 ---
@@ -43,19 +43,13 @@
 
 ---
 
-### [Cortesana](https://github.com/Kayro25/cortesana)
-> A **retro terminal music player** built with Python.
-✔ Interactive TUI using `urwid` — no GUI required.
-✔ Play/Pause, Next/Prev, Shuffle & Loop controls.
-✔ Spectrum visualizer with `numpy` + `matplotlib`.
-✔ Reads MP3 metadata and album art via `mutagen`.
-
----
-
-### [Console-DungeonCrawler](https://github.com/Kayro25/Console-DungeonCrawler)
-> A **turn-based dungeon crawler** that runs entirely in the terminal.
-✔ Written in **C#** with classic RPG mechanics.
-✔ Procedural dungeon exploration via the console.
+### [fallDetectionSystem](https://github.com/Kayro25/fallDetectionSystem)
+> An **AI-powered fall detection system** for embedded hardware and IP cameras.
+✔ YOLOv8n ONNX inference — CPU only, no GPU required.
+✔ Aspect ratio + vertical displacement analysis for fall detection.
+✔ Real-time web dashboard with live feed, bounding boxes, and alerts.
+✔ MQTT publishing for Home Assistant integration and automations.
+✔ Multi-camera support with Kalman filter tracking and video clip recording.
 
 ---
 
