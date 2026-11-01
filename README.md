@@ -1,5 +1,3 @@
-<img src="./assets/ggo-ascii.svg" width="680" alt="Kayro — detailed ASCII portrait of Sinon and Phantom Bullet lettering" />
-
 ### Profile
 
 <table>
