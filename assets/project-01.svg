@@ -1,9 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="106" viewBox="0 0 1000 106" role="img" aria-label="autoB: Project scaffolding from YAML templates.">
-<rect x=".5" y=".5" width="999" height="105" rx="5" fill="#161b22" stroke="#303640"/>
-<path d="M1 24v58" stroke="#a7dfdc" stroke-width="2"/>
-<text x="25" y="38" fill="#a7dfdc" font-family="monospace" font-size="12">01</text>
-<text x="72" y="40" fill="#e1e7ed" font-family="'Segoe UI',Arial,sans-serif" font-size="22">autoB</text>
-<text x="72" y="75" fill="#9eaab7" font-family="'Segoe UI',Arial,sans-serif" font-size="16">Project scaffolding from YAML templates.</text>
-<text x="930" y="38" text-anchor="end" fill="#a7dfdc" font-family="monospace" font-size="11" letter-spacing="2">CLI / YAML</text>
-<path d="M957 66h14m0 0v14m0-14-17 17" fill="none" stroke="#a7dfdc" stroke-width="1.5"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="76" viewBox="0 0 900 76" role="img" aria-label="autoB: YAML project scaffolding">
+<rect x=".5" y=".5" width="899" height="75" fill="#11181c" stroke="#37444a"/>
+<g font-family="'Cascadia Mono',Consolas,monospace">
+<text x="18" y="29" font-size="17" fill="#a0d9d4">├── autoB/</text>
+<text x="58" y="56" font-size="14" fill="#a6b6b9">YAML project scaffolding</text>
+<text x="878" y="28" text-anchor="end" font-size="13" fill="#a0d9d4">[cli] ↗</text>
+</g></svg>
