@@ -31,5 +31,6 @@ Web, games, CLI tools and automation.<br /><br />
 
 <sub>シノン · Phantom Bullet / SAO II · <a href="https://tenor.com/view/sinon-sao-sword-art-online-gif-25208771">GIF source</a></sub>
 
-<sub>ASCII portrait reference: wallpaper signed Paul Abstract · <a href="https://wallpaper.mob.gr.jp/pc/image/anime-sword_art_online_ii-sinon_sword_art_online-407429.html">source</a></sub>
+<sub>ASCII line-art reference · <a href="https://wall.alphacoders.com/big.php?i=794413">source</a></sub>
+
 
