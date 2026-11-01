@@ -9,7 +9,7 @@
 <strong>Kayro / Kayro25</strong><br /><br />
 Self-taught fullstack developer.<br />
 Web, games, CLI tools and automation.<br /><br />
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,linux,git,docker&amp;theme=dark" height="27" alt="Python, JavaScript, Node.js, Linux, Git and Docker" />
+<img src="https://skillicons.dev/icons?i=ruby,linux,git,docker&amp;theme=dark" height="27" alt="Ruby, Linux, Git and Docker" />
 </td>
 </tr>
 </table>
@@ -28,7 +28,5 @@ Web, games, CLI tools and automation.<br /><br />
 [![Repositories](https://img.shields.io/badge/REPOSITORIES-111A1E?style=flat-square&logo=github&logoColor=90A77A)](https://github.com/Kayro25?tab=repositories)
 
 <sub>シノン · Phantom Bullet / SAO II · <a href="https://tenor.com/view/sinon-sao-sword-art-online-gif-25208771">GIF source</a></sub>
-
-<sub>ASCII line-art reference · <a href="https://wall.alphacoders.com/big.php?i=794413">source</a></sub>
 
 
