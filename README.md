@@ -1,21 +1,37 @@
-<img align="right" src="./assets/sinon-paul-abstract.jpg" width="280" alt="Sinon — artwork signed Paul Abstract" />
+<div align="center">
 
-### kayro
+<sub>ソードアート・オンライン Ⅱ</sub>
 
-Fullstack developer.<br />
-Web, games, CLI tools & automation.
+<br />
 
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,linux&theme=dark" height="30" alt="Python, JavaScript, Node.js and Linux" />
+<a href="https://wall.alphacoders.com/big.php?i=791572"><img src="./assets/phantom-duo.png" width="420" alt="Sinon and Kirito — Phantom Bullet fan wallpaper" /></a>
 
-<sub><a href="mailto:me0711405@gmail.com">email</a> &nbsp;·&nbsp; <a href="https://github.com/Kayro25?tab=repositories">repositories</a></sub>
+<br />
 
-<br clear="all" />
+<img src="./assets/profile-name.svg" width="280" alt="Kayro / fullstack developer" />
 
-#### projects
+<sub>Web &nbsp; / &nbsp; Games &nbsp; / &nbsp; CLI &nbsp; / &nbsp; Automation</sub>
 
-[autoB](https://github.com/Kayro25/autoB) &nbsp; <sub>CLI scaffolding from YAML templates.</sub><br />
-[scrapCrypto](https://github.com/Kayro25/scrapCrypto) &nbsp; <sub>Galxe quest rankings and Telegram alerts.</sub><br />
-[fallDetectionSystem](https://github.com/Kayro25/fallDetectionSystem) &nbsp; <sub>Camera fall detection with ONNX and MQTT.</sub>
+<br /><br />
 
-<sub>シノン &nbsp; / &nbsp; Sword Art Online II<br />
-Art signed Paul Abstract · <a href="https://wallpaper.mob.gr.jp/pc/image/anime-sword_art_online_ii-sinon_sword_art_online-407429.html">source</a></sub>
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,linux&theme=dark" height="28" alt="Python, JavaScript, Node.js, Linux" />
+
+<br /><br />
+
+<sub>SELECTED WORK</sub>
+
+<br /><br />
+
+<a href="https://github.com/Kayro25/autoB"><strong>autoB</strong></a> &nbsp; <sub>YAML project scaffolding</sub><br />
+<a href="https://github.com/Kayro25/scrapCrypto"><strong>scrapCrypto</strong></a> &nbsp; <sub>Galxe rankings & Telegram alerts</sub><br />
+<a href="https://github.com/Kayro25/fallDetectionSystem"><strong>fallDetectionSystem</strong></a> &nbsp; <sub>ONNX & MQTT fall detection</sub>
+
+<br />
+
+<sub><a href="mailto:me0711405@gmail.com">EMAIL</a> &nbsp; / &nbsp; <a href="https://github.com/Kayro25?tab=repositories">REPOSITORIES</a></sub>
+
+<br />
+
+<sub><a href="https://wall.alphacoders.com/big.php?i=791572">Artwork source</a> · Phantom Bullet</sub>
+
+</div>
