@@ -1,4 +1,13 @@
-<img src="./assets/ggo-masthead.svg" width="680" alt="kayro. — Fullstack developer / Sword Art Online II: Gun Gale Online" />
+~~~text
+  _                               
+ | | ____ _ _   _ _ __ ___         GGO / II
+ | |/ / _` | | | | '__/ _ \        ----------
+ |   < (_| | |_| | | | (_) |       PHANTOM
+ |_|\_\__,_|\__, |_|  \___/        BULLET
+            |___/
+
+ fullstack developer / Kayro25
+~~~
 
 ### Profile
 
