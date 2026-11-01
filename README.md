@@ -1,13 +1,4 @@
-~~~text
-  _                               
- | | ____ _ _   _ _ __ ___         GGO / II
- | |/ / _` | | | | '__/ _ \        ----------
- |   < (_| | |_| | | | (_) |       PHANTOM
- |_|\_\__,_|\__, |_|  \___/        BULLET
-            |___/
-
- fullstack developer / Kayro25
-~~~
+<img src="./assets/ggo-ascii.svg" width="680" alt="Kayro — detailed ASCII portrait of Sinon and Phantom Bullet lettering" />
 
 ### Profile
 
@@ -39,3 +30,6 @@ Web, games, CLI tools and automation.<br /><br />
 [![Repositories](https://img.shields.io/badge/REPOSITORIES-111A1E?style=flat-square&logo=github&logoColor=90A77A)](https://github.com/Kayro25?tab=repositories)
 
 <sub>シノン · Phantom Bullet / SAO II · <a href="https://tenor.com/view/sinon-sao-sword-art-online-gif-25208771">GIF source</a></sub>
+
+<sub>ASCII portrait reference: wallpaper signed Paul Abstract · <a href="https://wallpaper.mob.gr.jp/pc/image/anime-sword_art_online_ii-sinon_sword_art_online-407429.html">source</a></sub>
+
