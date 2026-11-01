@@ -1,15 +1,32 @@
-### kayro <sub> / fullstack developer</sub>
+<img src="./assets/ggo-masthead.svg" width="680" alt="kayro. — Fullstack developer / Sword Art Online II: Gun Gale Online" />
 
-<a href="https://tenor.com/view/sinon-sao-sword-art-online-gif-25208771"><img src="./assets/sinon-scope.gif" width="210" height="118" alt="Sinon aiming through her rifle scope — animated scene from SAO II" /></a> <a href="https://wall.alphacoders.com/big.php?i=791572"><img src="./assets/phantom-duo.png" width="210" height="118" alt="Sinon and Kirito — Phantom Bullet fan wallpaper" /></a>
+### Profile
 
-<sub>Web · Games · CLI · Automation</sub>
+<table>
+<tr>
+<td width="205" align="center">
+<a href="https://tenor.com/view/sinon-sao-sword-art-online-gif-25208771"><img src="./assets/sinon-scope.gif" width="185" alt="Sinon — animated scene from Gun Gale Online" /></a>
+</td>
+<td valign="middle">
+<strong>Kayro / Kayro25</strong><br /><br />
+Self-taught fullstack developer.<br />
+Web, games, CLI tools and automation.<br /><br />
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,linux,git,docker&amp;theme=dark" height="27" alt="Python, JavaScript, Node.js, Linux, Git and Docker" />
+</td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,linux&theme=dark" height="25" alt="Python, JavaScript, Node.js, Linux" />
+### Selected projects
 
-<sub><a href="https://github.com/Kayro25/autoB"><strong>autoB</strong></a> — YAML project scaffolding<br />
-<a href="https://github.com/Kayro25/scrapCrypto"><strong>scrapCrypto</strong></a> — Galxe rankings & Telegram alerts<br />
-<a href="https://github.com/Kayro25/fallDetectionSystem"><strong>fallDetectionSystem</strong></a> — ONNX & MQTT fall detection</sub>
+| Project | Description |
+| :--- | :--- |
+| [**autoB**](https://github.com/Kayro25/autoB) | CLI scaffolding from reusable YAML templates. |
+| [**scrapCrypto**](https://github.com/Kayro25/scrapCrypto) | Galxe quest rankings and Telegram alerts. |
+| [**fallDetectionSystem**](https://github.com/Kayro25/fallDetectionSystem) | Camera-based fall detection with ONNX and MQTT. |
 
-<sub><a href="mailto:me0711405@gmail.com">email</a> &nbsp; / &nbsp; <a href="https://github.com/Kayro25?tab=repositories">repositories</a></sub>
+### Contact
 
-<sub>シノン / SAO II · <a href="https://tenor.com/view/sinon-sao-sword-art-online-gif-25208771">gif</a> · <a href="https://wall.alphacoders.com/big.php?i=791572">art</a></sub>
+[![Email](https://img.shields.io/badge/EMAIL-111A1E?style=flat-square&logo=protonmail&logoColor=8BCFC9)](mailto:me0711405@gmail.com)
+[![Repositories](https://img.shields.io/badge/REPOSITORIES-111A1E?style=flat-square&logo=github&logoColor=90A77A)](https://github.com/Kayro25?tab=repositories)
+
+<sub>シノン · Phantom Bullet / SAO II · <a href="https://tenor.com/view/sinon-sao-sword-art-online-gif-25208771">GIF source</a></sub>
