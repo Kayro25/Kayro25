@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/linux-tux-banner.gif" width="800" alt="Tux between two reaching hands — animated Linux banner" />
+</p>
+
 ### Profile
 
 <table>
